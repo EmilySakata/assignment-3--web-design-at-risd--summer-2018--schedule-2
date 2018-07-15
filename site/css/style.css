@@ -49,10 +49,6 @@ nav {
     overflow: hidden;
     width: 65%;
 }
-.red-font{
-   color: rgb(135,0,0);
-   font-family: 'Raleway', sans-serif;
-   font-size: 100px;
 }
 
 #flex-container {
