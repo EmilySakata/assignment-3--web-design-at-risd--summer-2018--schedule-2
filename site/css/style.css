@@ -105,6 +105,8 @@ nav > ul > li:hover > a > .caret {
    font-size: 100px;
 } */
 
+#flex-container {
+   display: flex;
    /*
       Uncomment the following properties one by one to see how the flex container
       handles excess whitespace.
@@ -121,9 +123,6 @@ nav > ul > li:hover > a > .caret {
    display: flex;
    align-items: flex-start;
    justify-content: center;
-   width: 200px;
-   /* height: 150px; */
-}
 .flex-item:nth-child(odd) {
    background-color: rgb(240, 240, 240);
 }
