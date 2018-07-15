@@ -41,18 +41,20 @@ nav {
     border: 1px solid #dedede;
     border-radius: 5px;
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
-
     color: #888;
     display: block;
     margin-left:15%;
     overflow: hidden;
     width: 65%;
+
+
 }
 /* unordered list style under navigation bar */
 nav ul {
     margin: 0 ;
     padding: 0;
     display:block;
+
 }
 
 nav ul li {
@@ -64,6 +66,7 @@ nav ul li {
    -ms-transition: all 0.2s;
    -o-transition: all 0.2s;
    transition: all 0.2s;
+
 }
 
 nav > ul > li > a {
@@ -72,6 +75,7 @@ nav > ul > li > a {
    line-height: 56px;
    padding: 0 24px;
    text-decoration: none;
+
 }
 
 /* navication style when users hover over */
