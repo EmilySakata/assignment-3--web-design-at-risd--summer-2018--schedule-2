@@ -132,7 +132,7 @@ nav > ul > li:hover > a > .caret {
 #good-design {
    display: flex;
    justify-content: center;
-   margin-top: 100px;
+   margin-top: 200px;
    margin-bottom: 0px;
    font-size: 30px;
    text-align: center;
@@ -140,5 +140,5 @@ nav > ul > li:hover > a > .caret {
 .position{
    position: -webkit-sticky;
    position: sticky;
-   top: 10px;
+   top: -1px;
 }
