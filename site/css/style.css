@@ -49,6 +49,11 @@ nav {
     overflow: hidden;
     width: 65%;
 }
+/* unordered list style under navigation bar */
+nav ul {
+    margin: 0 ;
+    padding: 0;
+    display:block;
 }
 
 #flex-container {
