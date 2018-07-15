@@ -99,6 +99,11 @@ nav > ul > li:hover > a > .caret {
    font-family: 'Quattrocento Sans', sans-serif;
 }
 
+/* .red-font{
+   color: rgb(255,31,3);
+   font-family: 'Raleway', sans-serif;
+   font-size: 100px;
+} */
 
    /*
       Uncomment the following properties one by one to see how the flex container
