@@ -32,3 +32,20 @@ span{
    font-size: 100px;
 }
 
+#flex-container {
+   display: flex;
+
+
+
+   /*
+      Uncomment the following properties one by one to see how the flex container
+      handles excess whitespace.
+   */
+   /* justify-content: flex-start; */
+   /* justify-content: flex-end; */
+   /* justify-content: center; */
+   justify-content: space-between;
+   /* justify-content: space-around; */
+   /* justify-content: space-evenly; */
+}
+
