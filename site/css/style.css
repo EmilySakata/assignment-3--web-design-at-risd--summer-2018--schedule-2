@@ -76,6 +76,10 @@ nav > ul > li > a {
 }
 
 /* navication style when users hover over */
+nav > ul > li:hover {
+  background-color: rgb(255,31,3);
+}
+
 
 
    /*
