@@ -56,8 +56,16 @@ nav ul {
     display:block;
 }
 
-#flex-container {
-   display: flex;
+nav ul li {
+   display: inline-block;
+   list-style-type: none;
+   justify-content: space-between;
+   -webkit-transition: all 0.2s;
+   -moz-transition: all 0.2s;
+   -ms-transition: all 0.2s;
+   -o-transition: all 0.2s;
+   transition: all 0.2s;
+}
 
 
 
