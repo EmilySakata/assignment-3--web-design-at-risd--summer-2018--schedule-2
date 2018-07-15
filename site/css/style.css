@@ -26,3 +26,9 @@ span{
    font-style: oblique;
 
 }
+.red-font{
+   color: rgb(135,0,0);
+   font-family: 'Raleway', sans-serif;
+   font-size: 100px;
+}
+
